@@ -11,7 +11,7 @@
 }
 
 .pass{
-    width: 40%;
+    width: 48%;
     color:rgb(2, 225, 46);
 }
 .cpass
@@ -21,7 +21,7 @@
 }
 .first
 {
-    width: 40%;
+    width: 48%;
     color:rgb(2, 225, 46);
 }
 .last
@@ -85,4 +85,25 @@
     height: 50%;
     font-size: 20px;
     border-radius: 10px;
+}
+.box
+{
+    border-radius: 30px;
+    /* background-color: aqua; */
+    width: 85%;
+    margin-left: 60px;
+    border: 2px solid black;
+}
+
+.table
+{
+    height: 100%;
+    width: 40%;
+    margin-left:200px ;
+    margin-top:100px
+}
+
+.table-five
+{
+    text-align: center;
 }
